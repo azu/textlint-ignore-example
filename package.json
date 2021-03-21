@@ -1,0 +1,16 @@
+{
+  "name": "textlint-ignore-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "textlint \"**/*.md\""
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint": "^11.9.0",
+    "textlint-rule-no-todo": "^2.0.1"
+  }
+}

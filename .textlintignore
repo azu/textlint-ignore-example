@@ -1,0 +1,4 @@
+# path to file
+ignored.md
+# glob pattern
+generated/**
